@@ -12,3 +12,5 @@ Changelog:
 - mandatory updating dialog for windows
 - optional update link for linux
 - remove run now from uninstaller
+## 1.0.16
+- use wau for lookpilot auto updates instead of updating from within the app
