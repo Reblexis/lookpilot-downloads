@@ -14,3 +14,7 @@ Changelog:
 - remove run now from uninstaller
 ## 1.0.16
 - use wau for lookpilot auto updates instead of updating from within the app
+## 1.1.0
+- added 'auto' protocol to linux (now being the default protocol)
+- updated status indicator GUI
+- moved fps info to status indicator
