@@ -20,3 +20,5 @@ Changelog:
 - moved fps info to status indicator
 ## 1.1.1
 - added start guide
+## 1.1.2
+- added start guide translations
