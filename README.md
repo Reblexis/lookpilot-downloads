@@ -18,3 +18,5 @@ Changelog:
 - added 'auto' protocol to linux (now being the default protocol)
 - updated status indicator GUI
 - moved fps info to status indicator
+## 1.1.1
+- added start guide
