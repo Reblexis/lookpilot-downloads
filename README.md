@@ -22,3 +22,12 @@ Changelog:
 - added start guide
 ## 1.1.2
 - added start guide translations
+## 1.1.11
+- add early access notice on linux builds
+- fix visualization cube not showing on linux
+- remove manual bash script launch depenendency for auto protocol 
+- speed up auto protocol on steam build
+- fix auto protocol json decode error issue
+- fix app crashing on resize on linux
+- add free trial to standalone version
+- add logout tab to standalone version
