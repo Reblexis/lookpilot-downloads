@@ -31,3 +31,10 @@ Changelog:
 - fix app crashing on resize on linux
 - add free trial to standalone version
 - add logout tab to standalone version
+## 1.2.0
+- improve auto protocol compatibility
+- replace game process with game's wine prefix in auto protocol
+- rename freetrack (Proton) to freetrack (Wine)
+- improve compatibility of other launcher in freetrack (Wine) 
+- change tool path to wine executable in other launcher in freetrack (Wine)
+- sending a bug report now sends more comprehensive logs
