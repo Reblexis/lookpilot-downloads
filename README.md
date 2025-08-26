@@ -38,3 +38,6 @@ Changelog:
 - improve compatibility of other launcher in freetrack (Wine) 
 - change tool path to wine executable in other launcher in freetrack (Wine)
 - sending a bug report now sends more comprehensive logs
+## 1.2.6
+- added max input & output customization
+- added proton launch detection
