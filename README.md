@@ -41,3 +41,12 @@ Changelog:
 ## 1.2.6
 - added max input & output customization
 - added proton launch detection
+## 1.2.10
+- Fix quick start guide dialog scaling bug
+- Detect more processes via auto
+- Make position axes affected by deadzone
+- Use steam runtime env when in standalone
+- Get rid of pyopengl dependency
+- Fix vdf error
+- Add wider linux cross-distro compatibility (compiled on older system)
+- Detect Steam launch dynamically
