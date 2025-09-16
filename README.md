@@ -50,3 +50,7 @@ Changelog:
 - Fix vdf error
 - Add wider linux cross-distro compatibility (compiled on older system)
 - Detect Steam launch dynamically
+## 1.4.0
+- Added community presets
+- Added offset customization in mapping
+- Many bug fixes and small changes
