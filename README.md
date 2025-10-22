@@ -54,3 +54,7 @@ Changelog:
 - Added community presets
 - Added offset customization in mapping
 - Many bug fixes and small changes
+## 1.5.3
+- Added temporal tracking mode
+- Added posture monitoring
+- Extended peripheral keybind support
