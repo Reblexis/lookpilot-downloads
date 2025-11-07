@@ -58,3 +58,9 @@ Changelog:
 - Added temporal tracking mode
 - Added posture monitoring
 - Extended peripheral keybind support
+## 1.6.1
+- Added virutal joystick
+- Redesigned gaming tab and tracking settings
+- Added auto start
+- Improved tracking range 10x
+- Add more robust linux launching and made auto protocol more "auto"
