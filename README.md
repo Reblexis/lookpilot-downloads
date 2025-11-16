@@ -64,3 +64,7 @@ Changelog:
 - Added auto start
 - Improved tracking range 10x
 - Add more robust linux launching and made auto protocol more "auto"
+## 1.6.5
+- Fixed virtual joystick visualization bug
+- Fixed preset switching bug
+- Added keybinds to community presets
