@@ -68,3 +68,9 @@ Changelog:
 - Fixed virtual joystick visualization bug
 - Fixed preset switching bug
 - Added keybinds to community presets
+## 1.6.6
+- Fix community preset download bug
+- Unify visualization timers
+## 1.6.7
+- Fix preset bug
+- Make auto protocol discovery async
