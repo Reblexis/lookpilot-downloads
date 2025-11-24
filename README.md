@@ -74,3 +74,6 @@ Changelog:
 ## 1.6.7
 - Fix preset bug
 - Make auto protocol discovery async
+## 1.6.8
+- Fix virtual joystick windows bug
+- Fix virtual joystick mapping conflict bug
