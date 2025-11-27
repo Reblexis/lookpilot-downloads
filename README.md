@@ -77,3 +77,6 @@ Changelog:
 ## 1.6.8
 - Fix virtual joystick windows bug
 - Fix virtual joystick mapping conflict bug
+## 1.6.9
+- Add exit confirm 
+- Bug fixes
