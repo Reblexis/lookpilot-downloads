@@ -80,3 +80,6 @@ Changelog:
 ## 1.6.9
 - Add exit confirm 
 - Bug fixes
+## 1.7.0
+- Add google sign in
+- Use gstreamer
