@@ -83,3 +83,6 @@ Changelog:
 ## 1.7.0
 - Add google sign in
 - Use gstreamer
+## 1.7.2
+- Update CP ranking
+- Add linux gstreamer
