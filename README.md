@@ -86,3 +86,7 @@ Changelog:
 ## 1.7.2
 - Update CP ranking
 - Add linux gstreamer
+## 1.7.8
+- Optimized
+- Synced translations
+- Fixed bugs
