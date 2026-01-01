@@ -90,3 +90,5 @@ Changelog:
 - Optimized
 - Synced translations
 - Fixed bugs
+## 1.7.11
+- Fixed bugs
