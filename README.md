@@ -92,3 +92,5 @@ Changelog:
 - Fixed bugs
 ## 1.7.11
 - Fixed bugs
+## 1.7.13
+- Fix auto start and preset keybinds
