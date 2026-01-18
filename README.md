@@ -94,3 +94,6 @@ Changelog:
 - Fixed bugs
 ## 1.7.13
 - Fix auto start and preset keybinds
+## 1.7.18
+- Fix camera bugs
+- Add pause tracking keybind
