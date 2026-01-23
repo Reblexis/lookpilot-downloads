@@ -97,3 +97,6 @@ Changelog:
 ## 1.7.18
 - Fix camera bugs
 - Add pause tracking keybind
+## 1.7.19
+- Linux Steam runtime fixes
+- Wrong registry keys handling
