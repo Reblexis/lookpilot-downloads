@@ -100,3 +100,5 @@ Changelog:
 ## 1.7.19
 - Linux Steam runtime fixes
 - Wrong registry keys handling
+## 1.7.24
+- GUI improvements
