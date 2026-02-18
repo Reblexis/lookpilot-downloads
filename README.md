@@ -102,3 +102,6 @@ Changelog:
 - Wrong registry keys handling
 ## 1.7.24
 - GUI improvements
+## 1.7.27
+- preset updates
+- bug fixes
