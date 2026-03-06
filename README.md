@@ -105,3 +105,6 @@ Changelog:
 ## 1.7.27
 - preset updates
 - bug fixes
+## 1.7.29
+- camera async loading
+- preset paging and improvements
