@@ -108,3 +108,6 @@ Changelog:
 ## 1.7.29
 - camera async loading
 - preset paging and improvements
+## 1.8.2
+- add mouse protocol
+- add eye suppression mode
