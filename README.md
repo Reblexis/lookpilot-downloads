@@ -113,3 +113,5 @@ Changelog:
 - add eye suppression mode
 ## 1.8.3
 - add safer camera handling
+## 1.8.4 
+- fix winget issues
