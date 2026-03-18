@@ -111,3 +111,5 @@ Changelog:
 ## 1.8.2
 - add mouse protocol
 - add eye suppression mode
+## 1.8.3
+- add safer camera handling
