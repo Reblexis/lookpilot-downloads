@@ -1,7 +1,7 @@
 # lookpilot-downloads
 Installer downloads for the LookPilot app.
 
-latest version: 1.0.14
+latest version: 1.9.0
 
 Changelog:
 ## 1.0.14
@@ -115,3 +115,13 @@ Changelog:
 - add safer camera handling
 ## 1.8.4 
 - fix winget issues
+## 1.9.0
+- New "Pro" head tracking mode with higher accuracy (select in Settings)
+- Tray mode with autostart and one-click camera toggle in the gaming tab
+- Drag the top of any spline graph to change axis sensitivity
+- Confidence slider now directly controls face redetection
+- Refreshed game-detected dialog and visualization cycle icon
+- Steam users can now run fully offline once licensed
+- Fix: force-feedback conflict with Hori wheels
+- Fix: tracking could stick to a bystander at events/kiosks
+- Many internal cleanups
