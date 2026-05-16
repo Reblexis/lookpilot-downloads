@@ -119,7 +119,6 @@ Changelog:
 - New "Pro" head tracking mode with higher accuracy (select in Settings)
 - Tray mode with autostart and one-click camera toggle in the gaming tab
 - Drag the top of any spline graph to change axis sensitivity
-- Confidence slider now directly controls face redetection
 - Refreshed game-detected dialog and visualization cycle icon
 - Steam users can now run fully offline once licensed
 - Fix: force-feedback conflict with Hori wheels
