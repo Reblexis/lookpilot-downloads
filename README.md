@@ -123,5 +123,4 @@ Changelog:
 - Steam users can now run fully offline once licensed
 - Fix: camera reload could crash or hang
 - Fix: force-feedback conflict with Hori wheels
-- Fix: tracking could stick to a bystander at events/kiosks
 - Many internal cleanups
