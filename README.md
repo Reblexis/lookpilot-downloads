@@ -118,6 +118,7 @@ Changelog:
 ## 1.9.0
 - New "Altair" tracking model option, alongside the original "Vega" (select in Settings)
 - Tray mode with autostart and one-click camera toggle in the gaming tab
+- Choose how LookPilot runs (tray / start with your PC) the first time you close it
 - Drag the top of any spline graph to change axis sensitivity
 - Game-detected prompt now stays above fullscreen games; refreshed dialog and cycle icon
 - Steam users can now run fully offline once licensed
