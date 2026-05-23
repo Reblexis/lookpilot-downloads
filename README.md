@@ -119,8 +119,9 @@ Changelog:
 - New "Pro" head tracking mode with higher accuracy (select in Settings)
 - Tray mode with autostart and one-click camera toggle in the gaming tab
 - Drag the top of any spline graph to change axis sensitivity
-- Refreshed game-detected dialog and visualization cycle icon
+- Game-detected prompt now stays above fullscreen games; refreshed dialog and cycle icon
 - Steam users can now run fully offline once licensed
+- Fix: camera reload could crash or hang
 - Fix: force-feedback conflict with Hori wheels
 - Fix: tracking could stick to a bystander at events/kiosks
 - Many internal cleanups
