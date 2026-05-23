@@ -116,7 +116,7 @@ Changelog:
 ## 1.8.4 
 - fix winget issues
 ## 1.9.0
-- New "Altair" 3D tracking model option, alongside the original "Vega" (select in Settings)
+- New "Altair" tracking model option, alongside the original "Vega" (select in Settings)
 - Tray mode with autostart and one-click camera toggle in the gaming tab
 - Drag the top of any spline graph to change axis sensitivity
 - Game-detected prompt now stays above fullscreen games; refreshed dialog and cycle icon
